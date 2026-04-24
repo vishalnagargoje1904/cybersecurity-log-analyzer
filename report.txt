@@ -1,0 +1,12 @@
+=== Suspicious Activity Report ===
+
+IP: 192.168.1.2 → Failed Attempts: 3
+IP: 192.168.1.3 → Failed Attempts: 2
+
+=== Potential Brute Force Attacks ===
+
+🚨 BRUTE FORCE ALERT: 192.168.1.2 (3 attempts)
+
+=== Rapid Attack Detection ===
+
+⚡ RAPID ATTACK from 192.168.1.2 within short time
